@@ -1,0 +1,66 @@
+ <section class="section coming-soon" data-section="section3">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-7 col-xs-12">
+          <div class="continer centerIt">
+            <div>
+              <h4>Students <em>Sheikh Zayed Islamic Centre</em> University Of Karachi</h4>
+              <div class="counter">
+                <div class="days">
+                  <div class="">426</div>
+                  <span>Students</span>
+                </div>
+
+                <div class="hours">
+                  <div class="">06</div>
+                  <span>Degrees</span>
+                </div>
+
+                <div class="minutes">
+                  <div class="">24</div>
+                  <span>Faculty</span>
+                </div>
+
+                <div class="seconds">
+                  <div class="">2500</div>
+                  <span>Alumni</span>
+                </div>
+
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-5">
+          <div class="right-content">
+            <div class="top-content">
+              <h6>Signup <em>and get immediate</em> access</h6>
+            </div>
+            <form id="contact" action="" method="get">
+              <div class="row">
+                <div class="col-md-12">
+                  <fieldset>
+                    <input name="name" type="text" class="form-control" id="name" placeholder="Your Name" required="">
+                  </fieldset>
+                </div>
+                <div class="col-md-12">
+                  <fieldset>
+                    <input name="email" type="text" class="form-control" id="email" placeholder="Your Email" required="">
+                  </fieldset>
+                </div>
+                <div class="col-md-12">
+                  <fieldset>
+                    <input name="phone-number" type="text" class="form-control" id="phone-number" placeholder="Your Phone Number" required="">
+                  </fieldset>
+                </div>
+                <div class="col-md-12">
+                  <fieldset>
+                    <button type="submit" id="form-submit" class="button">Get it now</button>
+                  </fieldset>
+                </div>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
